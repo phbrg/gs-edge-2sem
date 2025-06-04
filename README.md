@@ -45,7 +45,7 @@ node-red
 Acesse o link: http://127.0.0.1:1880/ e faca o import dos [flows](./flows.json)
 > Atencao, a porta pode mudar, por isso acesse o link fornecido no terminal apos iniciar o node-red
 
-Acesse a dashboard atravez do link: http://127.0.0.1:1880/ui
+Acesse a dashboard atraves do link: http://127.0.0.1:1880/ui
 > Atencao, a porta pode mudar, por isso acesse o link fornecido no terminal apos iniciar o node-red
 
 ## Referencias
