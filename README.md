@@ -3,7 +3,7 @@ Solucao da Global Solution 2 semestre realizada por:
 - Pedro Henrique Batista Bergamin, 559443
 - Ícaro de Oliveira Santos, 559950
 
-Este projeto visa reduzir o numero de enchentes e alagamentos previnindo bueiros de alagarem/entupirem fazendo a deteccao da quantidade de lixo/corpos estranhos e do nivel da agua presente no bueiro.
+Mapeia é uma plataforma digital colaborativa desenvolvida para ajudar no combate às enchentes em São Paulo. O sistema permite que cidadãos bueiros entupidos e outros riscos urbanos com localização geográfica e imagens. As informações são enviadas em tempo real para um painel administrativo usado por gestores públicos, permitindo respostas rápidas e baseadas em dados. A solução integra tecnologias como React, Node-RED, Arduino e Python, combinando participação cidadã com automação para tornar as cidades mais seguras e resilientes.
 
 ## Video:
 Video demonstracao da Global Solution
